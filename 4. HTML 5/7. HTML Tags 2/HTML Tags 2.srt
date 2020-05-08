@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My first website!</title>
+	</head>
+	<body>
+		<ol>
+			<li>banana</li>
+			<li>apple</li>
+			<li>orange</li>
+		</ol>
+		<ul>
+			<li>banana</li>
+			<li>apple</li>
+			<ul>
+				<li>banana</li>
+				<li>apple</li>
+				<li>orange</li>
+			</ul>
+			<li>orange</li>
+		</ul>
+	</body>
+</html>

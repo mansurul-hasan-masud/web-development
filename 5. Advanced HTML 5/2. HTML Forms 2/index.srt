@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My first wensite!</title>
+</head>
+<body>
+	<a href="new page.html"> new page</a><br>
+	<a href="register.html"> register</a>
+	<ul>
+		<li>banana</li>
+		<li>apple</li>
+		<ul>
+			<li>fuji</li>
+			<img src="https://image.shutterstock.com/image-photo/red-apple-on-white-background-260nw-158989157.jpg" width="42" height="42">
+			<li>honey crisp</li>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2J_60SaWGgmJlqNSOcd5oTJEbCf8jsvSwoCHoxfXroX8jKb-E&usqp=CAU" width="60" height="42">
+			</ul>
+		<li>orange</li>
+	</ul>
+
+</body>
+</html>
